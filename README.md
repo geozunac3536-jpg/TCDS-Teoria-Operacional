@@ -25,7 +25,7 @@ Donde:
 
 Este paradigma ha sido validado en múltiples dominios, notablemente en la **predicción sísmica**, donde las variables TCDS se mapean a observables físicos:
 
-* **$Q$ (Empuje)** $\rightarrow$ Tormentas geomagnéticas (Kp), Anomalías térmicas.
+* **$Q$ (Empuje)** $\rightarrow$ Tormentas geomagneticas (Kp), Anomalías térmicas.
 * **$\Sigma$ (Coherencia)** $\rightarrow$ Contenido Total de Electrones (TEC) ionosférico.
 * **$\phi$ (Fricción)** $\rightarrow$ Deslizamientos Lentos (SSE).
 
@@ -35,15 +35,18 @@ $$
 \Psi = \frac{Q / \phi}{1 - \Sigma} \quad | \quad \text{Umbral Crítico: } \Psi_c \ge 1.3
 $$
 
-## Red de Indexación (Publicaciones Clave)
+## Red de Indexación (Publicaciones Clave del Corpus)
 
-Este repositorio operacional sirve como el nexo que unifica el corpus TCDS. Para la auditoría científica y el contexto estratégico, consulte las publicaciones formales en Zenodo:
+Este repositorio operacional sirve como el nexo que unifica todo el corpus TCDS. Para la auditoría científica y el contexto estratégico, consulte las tres publicaciones formales en Zenodo que componen el paradigma:
 
-1.  **El Producto (Caballo de Troya):** Sistema Predictivo de Defensa Sísmica
+1.  **El Producto (Aplicación):** Sistema Predictivo de Defensa Sísmica
     * [https://doi.org/10.5281/zenodo.17452020](https://doi.org/10.5281/zenodo.17452020)
 
 2.  **La Ciencia (Fundamentos):** Compendio Científico y Filosófico
     * [https://doi.org/10.5281/zenodo.17459148](https://doi.org/10.5281/zenodo.17459148)
+
+3.  **La Tecnología (Hardware):** El ΣFET y el Isomorfismo CSL-H (ΑΩ)
+    * [https://doi.org/10.5281/zenodo.17450752](https://doi.org/10.5281/zenodo.17450752)
 
 ---
 > Este trabajo se publica para fomentar la adopción y validación. Consulte el archivo `LICENSE` para los permisos de uso.
