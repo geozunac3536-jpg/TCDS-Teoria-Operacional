@@ -43,7 +43,7 @@ Este repositorio operacional sirve como el nexo que unifica todo el corpus TCDS.
     * [https://doi.org/10.5281/zenodo.17452020](https://doi.org/10.5281/zenodo.17452020)
 
 2.  **La Ciencia (Fundamentos):** Compendio Científico y Filosófico
-    * [https://doi.org/10.5281/zenodo.17459148](https://doi.org/10.5281/zenodo.17460891)
+    * [https://doi.org/10.5281/zenodo.17460891](https://doi.org/10.5281/zenodo.17460891)
 
 3.  **La Tecnología (Hardware):** El ΣFET y el Isomorfismo CSL-H (ΑΩ)
     * [https://doi.org/10.5281/zenodo.17450752](https://doi.org/10.5281/zenodo.17450752)
