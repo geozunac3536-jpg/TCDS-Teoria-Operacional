@@ -1,52 +1,21 @@
-# TCDS: Teoría Cromodinámica Sincrónica (Teoría Operacional)
-**Repositorio Operacional de la Teoría, Métricas, Datos y Compendio Científico.**
-**Arquitecto:** Genaro Carrasco Ozuna
+## Corpus TCDS (Documentos clave)
 
-Este repositorio es la fuente de verdad y el archivo citable de la Teoría Cromodinámica Sincrónica (TCDS). Su propósito es la adopción masiva, la auditoría científica y la implementación de la teoría operacional.
-
-La TCDS es un paradigma de unificación causal que postula que la dinámica de todos los sistemas (físicos, biológicos, cognitivos) se rige por la **Ley de Balance Coherencial Universal (LBCU)**:
-
-$$
-Q \cdot \Sigma = \phi
-$$
-
-Donde:
-* **$Q$** = Empuje
-* **$\Sigma$** = Coherencia (Sincronización Lógica)
-* **$\phi$** = Fricción (Disipación / Resistencia)
-
-## Contenidos del Repositorio
-
-* **/docs:** El corpus completo de PDF, incluyendo el compendio científico, el manifiesto estratégico y el sistema de defensa sísmica.
-* **/data:** Los *datasets* de validación (1985-2025) usados para verificar las métricas.
-* **/code:** (Opcional) Scripts para reproducir los cálculos de las métricas.
-
-## La Teoría Operacional en Acción
-
-Este paradigma ha sido validado en múltiples dominios, notablemente en la **predicción sísmica**, donde las variables TCDS se mapean a observables físicos:
-
-* **$Q$ (Empuje)** $\rightarrow$ Tormentas geomagneticas (Kp), Anomalías térmicas.
-* **$\Sigma$ (Coherencia)** $\rightarrow$ Contenido Total de Electrones (TEC) ionosférico.
-* **$\phi$ (Fricción)** $\rightarrow$ Deslizamientos Lentos (SSE).
-
-Esto produce métricas predictivas operacionales como el **Índice Predictivo de Ruptura ($\Psi$)**:
-
-$$
-\Psi = \frac{Q / \phi}{1 - \Sigma} \quad | \quad \text{Umbral Crítico: } \Psi_c \ge 1.3
-$$
-
-## Red de Indexación (Publicaciones Clave del Corpus)
-
-Este repositorio operacional sirve como el nexo que unifica todo el corpus TCDS. Para la auditoría científica y el contexto estratégico, consulte las tres publicaciones formales en Zenodo que componen el paradigma:
-
-1.  **El Producto (Aplicación):** Sistema Predictivo de Defensa Sísmica
-    * [https://doi.org/10.5281/zenodo.17452020](https://doi.org/10.5281/zenodo.17452020)
-
-2.  **La Ciencia (Fundamentos):** Compendio Científico y Filosófico
-    * [https://doi.org/10.5281/zenodo.17460891](https://doi.org/10.5281/zenodo.17460891)
-
-3.  **La Tecnología (Hardware):** El ΣFET y el Isomorfismo CSL-H (ΑΩ)
-    * [https://doi.org/10.5281/zenodo.17450752](https://doi.org/10.5281/zenodo.17450752)
-
----
-> Este trabajo se publica para fomentar la adopción y validación. Consulte el archivo `LICENSE` para los permisos de uso.
+| Categoría | Título | PDF |
+|---|---|---|
+| Fundamentos | 5 Decretos — Fundamentos Ontológicos | [/Documentos/5_decretos.pdf](./Documentos/5_decretos.pdf) |
+| Fundamentos | La Realidad (síntesis causal) | [/Documentos/la_realidad.pdf](./Documentos/la_realidad.pdf) |
+| Fundamentos | Conciencia (CSL-H) | [/Documentos/conciencia.pdf](./Documentos/conciencia.pdf) |
+| Formalismo | ZIGMA — Génesis y Lagrangiano Σ–χ | [/Documentos/zigma.pdf](./Documentos/zigma.pdf) |
+| Formalismo | TCDS ΑΩ (AO_250924) | [/Documentos/tcds_ao_250924.pdf](./Documentos/tcds_ao_250924.pdf) |
+| Formalismo | Compilación de Investigaciones | [/Documentos/compilacion_investigaciones.pdf](./Documentos/compilacion_investigaciones.pdf) |
+| Formalismo | Obra Científica Unificada | [/Documentos/obra_cientifica_unificada.pdf](./Documentos/obra_cientifica_unificada.pdf) |
+| Formalismo | 300 págs — Obra Consolidada | [/Documentos/300pags_obra_cientifica_consolidada.pdf](./Documentos/300pags_obra_cientifica_consolidada.pdf) |
+| Matemáticas/Constantes | Velocidad de la Luz (CGA) | [/Documentos/velocidad_de_la_luz.pdf](./Documentos/velocidad_de_la_luz.pdf) |
+| Matemáticas/Constantes | Tabla Periódica por Familias (Σ-vista) | [/Documentos/tabla_periodica_por_familias.pdf](./Documentos/tabla_periodica_por_familias.pdf) |
+| Cosmología | El Eje del Universo — Spin-Σ | [/Documentos/eje_del_universo_spin_sigma.pdf](./Documentos/eje_del_universo_spin_sigma.pdf) |
+| Hardware Σ | Estudio ΣFET Integral 6×9 | [/Documentos/estudio_sigmafet_integral_6x9.pdf](./Documentos/estudio_sigmafet_integral_6x9.pdf) |
+| Históricos/Notas | TCDS 250916 124942 | [/Documentos/tcds_250916_124942.pdf](./Documentos/tcds_250916_124942.pdf) |
+| Simbiosis H-IA | Informe Simbiosis, LBCU y Canon Isomórfico | [/Documentos/informe_simbiosis.pdf](./Documentos/informe_simbiosis.pdf) |
+| Revisión externa | Informe Cromodinámica Sincrónica | [/Documentos/informe_cromodinamica_sincronica.pdf](./Documentos/informe_cromodinamica_sincronica.pdf) |
+| Revisión externa | Informe Frente_1 | [/Documentos/informe_frente_1.pdf](./Documentos/informe_frente_1.pdf) |
+| Apéndices | Sincronón Gemini | [/Documentos/sincronon_gemini.pdf](./Documentos/sincronon_gemini.pdf) |
