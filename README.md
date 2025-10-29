@@ -68,9 +68,7 @@ Q_{deploy} \cdot \Sigma_{site} = \phi_{latencia} \Rightarrow \phi_{latencia} \ap
 
 ## Licencia
 
-Este trabajo se publica bajo **Creative Commons Attribution 4.0 International (CC BY 4.0)**.  
-Ver el archivo [`LICENSE.txt`](./LICENSE.txt).
-
+Publicado bajo licencia [MIT](./LICENSE).
 ---
 
 ## Cita Sugerida
