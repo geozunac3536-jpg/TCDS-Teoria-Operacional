@@ -1,0 +1,12 @@
+/* Team */
+Architect: Genaro Carrasco Ozuna
+Contact: geozunac3536@gmail.com
+Project: TCDS — Teoría Cromodinámica Sincrónica (Teoría Operacional)
+Site: https://geozunac3536-jpg.github.io/TCDS-Teoria-Operacional/
+
+/* Thanks */
+GitHub Pages, Community reviewers
+
+/* Standards */
+License: See LICENSE.txt
+DOIs: 10.5281/zenodo.17452020, 10.5281/zenodo.17460891, 10.5281/zenodo.17450752
