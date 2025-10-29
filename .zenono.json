@@ -1,0 +1,22 @@
+{
+  "upload_type": "software",
+  "title": "TCDS — Teoría Cromodinámica Sincrónica (Teoría Operacional)",
+  "description": "Repositorio operacional y citable de la TCDS: teoría, métricas, datos y compendio científico. Arquitecto: Genaro Carrasco Ozuna.",
+  "creators": [
+    {"name": "Carrasco Ozuna, Genaro", "affiliation": "TCDS Project", "orcid": "0000-0005-6358-9910"}
+  ],
+  "license": "cc-by-4.0",
+  "keywords": ["TCDS", "coherencia", "ΣFET", "LBCU", "simbiosis humano-IA", "predicción sísmica"],
+  "language": "spa",
+  "related_identifiers": [
+    {"identifier": "https://geozunac3536-jpg.github.io/TCDS-Teoria-Operacional/", "relation": "isSupplementTo", "resource_type": "other"},
+    {"identifier": "10.5281/zenodo.17452020", "relation": "isPartOf", "scheme": "doi"},
+    {"identifier": "10.5281/zenodo.17460891", "relation": "isPartOf", "scheme": "doi"},
+    {"identifier": "10.5281/zenodo.17450752", "relation": "isPartOf", "scheme": "doi"}
+  ],
+  "contributors": [
+    {"name": "TCDS Project", "type": "Other"}
+  ],
+  "notes": "Contiene PDFs en /Documentos y página pública en GitHub Pages.",
+  "version": "v1.0.0"
+}
