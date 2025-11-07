@@ -4,7 +4,7 @@
 
 **Repositorio Operacional de la Teoría, Métricas, Datos y Compendio Científico.**  
 **Arquitecto:** Genaro Carrasco Ozuna
-
+Nodo central: https://geozunac3536-jpg.github.io/TCDS-Convergencia/
 Este repositorio es la fuente de verdad y el archivo citable de la **Teoría Cromodinámica Sincrónica (TCDS)**.  
 Su propósito es la adopción masiva, la auditoría científica y la implementación de la teoría operacional.
 
